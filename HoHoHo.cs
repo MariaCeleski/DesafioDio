@@ -1,7 +1,7 @@
 using System;
 
 namespace DIO {
-    class Program {
+    class ContagemDeCedulas {
         static void Main(string[] args) {
            
             int n = int.Parse(Console.ReadLine());
